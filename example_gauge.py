@@ -16,7 +16,6 @@
 ## https://github.com/prometheus/client_python/blob/dc15164f4/README.md
 
 from prometheus_client import start_http_server, Gauge # , Summary
-import random
 import socket
 import time
 
